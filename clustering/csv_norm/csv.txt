@@ -1,0 +1,7 @@
+w plikach "sn_x"
+usrednione wyniki policzonych indeksow FM i AR dla kazdego x z 43 zbiorow dla funkcji hclust(), hclust2() i spectral_clustering()
+
+w pliku specn
+usrednione wyniki policzonych indeksow FM i AR dla 43 zbiorow dla funkcji speccalt()
+
+obliczenia przeprowadzone na danych po standaryzacji
